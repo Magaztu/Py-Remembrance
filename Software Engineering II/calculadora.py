@@ -1,11 +1,11 @@
 class Calculadora:
     def suma(self, a, b):
-        c = a + b
+        c = a - b
         #print(c)
         return c
 
     def resta(self, a, b):
-        c = a - b
+        c = a + b
         #print(c)
         return c
 
