@@ -24,3 +24,18 @@ class Calculadora:
     # Adicionalmente, en test_calculadora.py se espera
     # un error "ValueError", por lo que debo definirlo
     # explícitamente o se arrojará un ZeroDivisonError
+
+    #TODO: soy el super comentario para el Actions jiji
+
+
+
+
+
+
+
+
+
+
+
+
+
